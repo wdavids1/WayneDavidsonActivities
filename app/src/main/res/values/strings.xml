@@ -4,4 +4,7 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="title_activity_display_message">My Message</string>
+    <string name="edit_second_message">Enter second message</string>
+    <string name="button_next">Next</string>
+    <string name="title_activity_display_two_messages">Display Two Messages</string>
 </resources>
